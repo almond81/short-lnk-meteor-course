@@ -1,3 +1,7 @@
-Short Lnk
+# Short Lnk
 
-An app to share links 
+An app to share links
+
+## Authors
+
+Bobby Amlani
